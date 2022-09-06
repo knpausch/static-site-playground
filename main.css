@@ -1,3 +1,21 @@
 body {
-  background-color: #F4EEED;
+  background-color: aqua;
+  border-style: dashed;
+  margin-right: 1550px;
+  color: white;
+}
+
+h1 {
+  font-size: 25px;
+  color: coral;
+  border-style: dashed;
+  padding-left: 40px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.track-package {
+  background-color: brown;
+  color: white;
+  margin-left:120px;
 }
